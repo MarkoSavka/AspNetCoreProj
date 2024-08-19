@@ -2,7 +2,7 @@
   
   Description: ⤵️
   
-StaffMan is a small-scale project aimed at managing personnel using modern web development technologies. The project demonstrates the integration of SOLID principles, CRUD operations, and Ocelot for gateway implementation on the backend, combined with React for the frontend.
+StaffMan is a small-scale project aimed at managing personnel using modern web development technologies. The project demonstrates the integration of SOLID principles, CRUD operations, and Ocelot for gateway implementation on the backend, combined with React and TypeScript for the frontend.
 
   Key Features: ⤵️
   
@@ -20,7 +20,7 @@ StaffMan is a small-scale project aimed at managing personnel using modern web d
 
   Frontend:
   
-✔️Built with React.
+✔️Built with React and TypeScript.
 
 ✔️Simple and clean user interface using Material-UI.
 
