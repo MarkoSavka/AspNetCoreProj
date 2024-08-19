@@ -6,7 +6,7 @@ StaffMan is a small-scale project aimed at managing personnel using modern web d
 
   Key Features: ⤵️
   
-  Backend:
+  Backend:⬇️
   
 ✔️Built with Asp.Net Core.
 
@@ -18,7 +18,7 @@ StaffMan is a small-scale project aimed at managing personnel using modern web d
 
 ✔️Ocelot is used for efficient API gateway management, routing, and request aggregation.
 
-  Frontend:
+  Frontend:⬇️
   
 ✔️Built with React and TypeScript.
 
