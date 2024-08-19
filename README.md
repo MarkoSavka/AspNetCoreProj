@@ -1,6 +1,6 @@
-  Project Name: StaffMan
+  📍Project Name: StaffMan📍
   
-  Description:
+  Description: ⤵️
 StaffMan is a small-scale project aimed at managing personnel using modern web development technologies. The project demonstrates the integration of SOLID principles, CRUD operations, and Ocelot for gateway implementation on the backend, combined with React for the frontend.
 
   Key Features: ⤵️
