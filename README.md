@@ -28,7 +28,7 @@ StaffMan is a small-scale project aimed at managing personnel using modern web d
 ✔️Provides a user-friendly experience with a responsive design.
 
 
-  Installation:
+  Installation: ⤵️
   
   Clone the repository:
 git clone https://github.com/MarkoSavka/AspNetCoreProj.git
@@ -54,8 +54,10 @@ Ensure you have Node.js and npm installed.
 - npm install
 - npm start
 
-  Usage:
+  Usage: ⤵️
+  
 After setting up, you can access the application in your web browser at http://localhost:3000. The frontend connects seamlessly with the backend, allowing you to perform CRUD operations on personnel data with a responsive and intuitive UI. And don’t forget that only users with the Administrator role can add, delete, and change.
 
-  Contributing:
+  Contributing: ⤵️
+  
 Feel free to contribute to StaffMan by submitting pull requests, reporting issues, or suggesting improvements.
