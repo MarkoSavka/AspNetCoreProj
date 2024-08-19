@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "hAH93kMOKDsBOgD9jqxn2gAYRhIZjn0c3s5kfYpCpNk=",
+  "Source": "UserApi",
+  "BasePath": "_content/UserApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/markosavka/files/Study/Itstep/AspNetCore/github/ItStepLessons/microservices/exam/ClientService/ClientService.csproj",
+      "Version": 2,
+      "Source": "ClientService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

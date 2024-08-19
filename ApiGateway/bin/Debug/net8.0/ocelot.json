@@ -1,0 +1,64 @@
+{  "Routes": [
+
+  {
+    "DownstreamPathTemplate": "/api/admin/{id}",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "localhost",
+        "Port": 5271
+      }
+    ],
+    "UpstreamPathTemplate": "/gateway/admin/{id}",
+    "UpstreamHttpMethod": [ "DELETE", "PUT" ]
+  },
+  {
+    "DownstreamPathTemplate": "/api/user",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "localhost",
+        "Port": 5078
+      }
+    ],
+    "UpstreamPathTemplate": "/gateway/user",
+    "UpstreamHttpMethod": [ "GET" ]
+  },
+  {
+    "DownstreamPathTemplate": "/api/user/{id}",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "localhost",
+        "Port": 5078
+      }
+    ],
+    "UpstreamPathTemplate": "/gateway/user/{id}",
+    "UpstreamHttpMethod": [ "GET" ]
+  },
+  {
+    "DownstreamPathTemplate": "/api/user/login",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "localhost",
+        "Port": 5078
+      }
+    ],
+    "UpstreamPathTemplate": "/gateway/user/login",
+    "UpstreamHttpMethod": [ "POST" ]
+  },
+  {
+    "DownstreamPathTemplate": "/api/user/register",
+    "DownstreamScheme": "http",
+    "DownstreamHostAndPorts": [
+      {
+        "Host": "localhost",
+        "Port": 5078
+      }
+    ],
+    "UpstreamPathTemplate": "/gateway/user/register",
+    "UpstreamHttpMethod": [ "POST" ]
+  }
+]
+}
