@@ -7,16 +7,24 @@ StaffMan is a small-scale project aimed at managing personnel using modern web d
   
   Backend:
 ✔️Built with Asp.Net Core.
+
 ✔️Implements SOLID principles for a clean and maintainable codebase.
+
 ✔️CRUD operations for managing personnel data.
+
 ✔️JWT Tokens are used for secure authentication and authorization.
+
 ✔️Ocelot is used for efficient API gateway management, routing, and request aggregation.
 
   Frontend:
 ✔️Built with React.
+
 ✔️Simple and clean user interface using Material-UI.
+
 ✔️React Router is used for seamless navigation across the application.
+
 ✔️Provides a user-friendly experience with a responsive design.
+
 
   Installation:
   
